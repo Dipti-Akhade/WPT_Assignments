@@ -1,0 +1,27 @@
+*{}
+#div-content{
+    background-color: antiquewhite;
+    height: 400px;
+    width: 50%;
+    margin: 50px auto;
+    padding: 50px auto;
+    text-align: center;
+    font-size:25px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border-width: 50px;
+    border: 2px solid blue;
+    border-radius: 0cm;
+}
+
+.input-container{
+
+    border-left: 0ch;
+    border-right: 0ch;
+    border-top: 0ch;
+    width: 25%;
+}
+#p.content{
+    font-size: 1px;
+    height: 50px;
+    
+}

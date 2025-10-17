@@ -1,0 +1,87 @@
+body{
+    background-color: #f4f4f4;
+     background-image: url(https://media.istockphoto.com/id/2187172452/photo/metallic-contact-us-symbols-illuminated-by-blue-and-magenta-lights-on-blue-and-magenta.jpg?s=2048x2048&w=is&k=20&c=cQ3IJ0fheY62gBmFxxWL2BjyIFtj0N8nCTdenOovNc4=);
+    
+      background-size: 1500px 1200px;
+  background-repeat: no-repeat;
+  background-position: top;
+  background-size: 
+
+     
+   
+}
+#panel{
+    height: 400px;
+    width: 80%;
+    
+    margin: 100px auto;
+    align-items: center;
+    text-align: center;
+    border: 5px solid red;
+    padding: 25px;
+    flex: 1;
+}
+#panel img{
+    height: 400px;
+    align-items: right;
+    width: 40%;
+    
+
+}
+.Touch-Panel{
+    flex: 1;
+    width: 50%;
+    height: 400px;
+    float: left;
+background-color: aqua;
+border: 5px none blue;
+border-right: 3px dotted blue;
+border-bottom: 3px dotted blue;
+box-shadow: 0 0 10px #2ecc71;
+  animation: glow 1.5s infinite alternate;
+}
+.Touch-Panel h1{
+border-bottom: 1px solid green;
+}
+
+.Contact-form{
+  float: left;
+  flex: 1;
+  width: 50%;
+  height: 250px;
+  background-color: gray;
+   background-image: url(https://plus.unsplash.com/premium_photo-1669658981858-b2ae0d7581a3?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fGNvbnRhY3QlMjB1c3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&q=60&w=500);
+    
+      background-repeat: no-repeat;
+      height: 400px;
+    align-items: right;
+    width: 40%;
+
+}
+
+contact-form h1 {
+  margin-bottom: 5px;
+  color: #2ecc71;
+}
+
+.contact-form form {
+  display: flex;
+  flex-direction: column;
+}
+.contact-form input,
+.contact-form textarea {
+  margin-bottom: 15px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+.contact-form button {
+  padding: 10px;
+  background-color: #2ecc71;
+  color: white;
+  border: none;
+  font-weight: bold;
+  cursor: pointer;
+  margin-left: 20px;
+}
+
